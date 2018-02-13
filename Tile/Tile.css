@@ -1,0 +1,11 @@
+.tile-box {
+    width : 100px;
+    height: 100px;
+}
+.dark-blue {
+    background-color: darkblue
+}
+
+.light-blue {
+    background-color: lightblue
+}

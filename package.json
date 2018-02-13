@@ -1,0 +1,18 @@
+{
+  "name": "tile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Tile.js",
+  "scripts": {
+    "build": "webpack",
+    "start": "http-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+
+  },
+  "dependencies": {
+    "webpack": "3.11.0"
+  }
+}
